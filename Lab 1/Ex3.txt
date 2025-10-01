@@ -1,0 +1,6 @@
+3.
+a. 2000Hz <=> esantionare la 1/2000 = 0.0005
+b. 2000 de esantioane pe secunda x 60 de secunde x 60 de minute =
+        2000 x 3600 = 7,200,000 
+                        / 2 (incap 2 esantioane per byte) = 3,600,000
+                            echivalent cu spatiul unui mp3 pe vremuri
